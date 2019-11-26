@@ -1,0 +1,62 @@
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\Easy GPA.exe.config
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\Easy GPA.exe
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\Easy GPA.pdb
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\obj\Debug\Easy GPA.csprojAssemblyReference.cache
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\obj\Debug\Easy_GPA.Form1.resources
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\obj\Debug\Easy_GPA.Properties.Resources.resources
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\obj\Debug\Easy GPA.csproj.GenerateResource.cache
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\obj\Debug\Easy GPA.csproj.CoreCompileInputs.cache
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\obj\Debug\Easy GPA.exe
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\obj\Debug\Easy GPA.pdb
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\Easy GPA.exe.manifest
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\Easy GPA.application
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\obj\Debug\Easy GPA.exe.manifest
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\obj\Debug\Easy GPA.application
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\bin\Debug\Easy GPA.exe.config
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\bin\Debug\Easy GPA.exe.manifest
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\bin\Debug\Easy GPA.application
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\bin\Debug\Easy GPA.exe
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\bin\Debug\Easy GPA.pdb
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\obj\Debug\Easy GPA.csprojAssemblyReference.cache
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\obj\Debug\Easy_GPA.Form1.resources
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\obj\Debug\Easy_GPA.Properties.Resources.resources
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\obj\Debug\Easy GPA.csproj.GenerateResource.cache
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\obj\Debug\Easy GPA.csproj.CoreCompileInputs.cache
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\obj\Debug\Easy GPA.exe.manifest
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\obj\Debug\Easy GPA.application
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\obj\Debug\Easy GPA.exe
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\obj\Debug\Easy GPA.pdb
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\bin\Debug\x86\sqlite3.dll
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\bin\Debug\x64\sqlite3.dll
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\bin\Debug\EntityFramework.dll
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\bin\Debug\System.Data.SQLite.dll
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\bin\Debug\EntityFramework.xml
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\bin\Debug\System.Data.SQLite.xml
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Daniyal Akbar\source\Easy GPA\Easy GPA\obj\Debug\Easy GPA.csproj.CopyComplete
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\x86\sqlite3.dll
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\x64\sqlite3.dll
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\EntityFramework.dll
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\System.Data.SQLite.dll
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\EntityFramework.xml
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\System.Data.SQLite.xml
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\obj\Debug\Easy GPA.csproj.CopyComplete
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\Telerik.WinControls.dll
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\TelerikCommon.dll
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\Telerik.WinControls.xml
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\obj\Debug\Easy GPA.exe.licenses
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\bin\Debug\Telerik.WinControls.RichTextEditor.xml

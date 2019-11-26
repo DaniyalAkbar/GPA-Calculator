@@ -1,0 +1,80 @@
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\Form1.cs
+private TextBox txtBox = new TextBox();
+Changed System.Windows.Forms.TextBox with Telerik.WinControls.UI.RadTextBox
+private Button btnAdd = new Button();
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+private ListBox lstBox = new ListBox();
+Changed System.Windows.Forms.ListBox with Telerik.WinControls.UI.RadListControl
+private CheckBox chkBox = new CheckBox();
+Changed System.Windows.Forms.CheckBox with Telerik.WinControls.UI.RadCheckBox
+private Label lblCount = new Label();
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+Label l = new Label();
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+
+Changed System.Windows.Forms.TextBox with Telerik.WinControls.UI.RadTextBox
+
+C:\Users\Daniyal Akbar\source\repos\Easy GPA\Easy GPA\Form1.Designer.cs
+private System.Windows.Forms.Label label1;
+Changed System.Windows.Forms.Label with Telerik.WinControls.UI.RadLabel
+private System.Windows.Forms.Button enter;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+private System.Windows.Forms.ComboBox comboBox1;
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+private System.Windows.Forms.Button reset;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+private System.Windows.Forms.Button calc;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+private System.Windows.Forms.Button button1;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+private System.Windows.Forms.Button cgpa;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+private System.Windows.Forms.Button button2;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+this.button1.TextAlign
+Changed this.button1.TextAlign to TextAlignment
+this.enter.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+Removed FlatStyle
+this.enter.UseVisualStyleBackColor = false;
+Removed UseVisualStyleBackColor
+this.reset.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+Removed FlatStyle
+this.reset.UseVisualStyleBackColor = false;
+Removed UseVisualStyleBackColor
+this.calc.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+Removed FlatStyle
+this.calc.UseVisualStyleBackColor = false;
+Removed UseVisualStyleBackColor
+this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+Removed FlatStyle
+this.button1.UseVisualStyleBackColor = false;
+Removed UseVisualStyleBackColor
+this.cgpa.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+Removed FlatStyle
+this.cgpa.UseVisualStyleBackColor = false;
+Removed UseVisualStyleBackColor
+this.button2.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.enter.Click += new System.EventHandler(this.enter_Click)
+Changed this.enter_Click
+this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged)
+Changed this.comboBox1_SelectedIndexChanged
+this.reset.Click += new System.EventHandler(this.reset_Click)
+Changed this.reset_Click
+this.calc.Click += new System.EventHandler(this.calc_Click)
+Changed this.calc_Click
+this.button1.Click += new System.EventHandler(this.button1_Click)
+Changed this.button1_Click
+this.cgpa.Click += new System.EventHandler(this.cgpa_Click)
+Changed this.cgpa_Click
+this.button2.Click += new System.EventHandler(this.button2_Click)
+Changed this.button2_Click
+
